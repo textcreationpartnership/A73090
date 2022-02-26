@@ -1,0 +1,183 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The discripcion, and foundacion of the holy apostolyke hospitall, and confraternite of the holy Goost in Rome, and by whome I was fyrste founde and edified</title>
+            <author>Hospital of the Holy Ghost (Rome, Italy)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1520</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73090</idno>
+            <idno type="STC">STC 21310.5</idno>
+            <idno type="STC">ESTC S124840</idno>
+            <idno type="EEBO-CITATION">99898724</idno>
+            <idno type="PROQUEST">99898724</idno>
+            <idno type="VID">152018</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152018)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2016:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The discripcion, and foundacion of the holy apostolyke hospitall, and confraternite of the holy Goost in Rome, and by whome I was fyrste founde and edified</title>
+                  <author>Hospital of the Holy Ghost (Rome, Italy)</author>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>R. Pynson,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1520]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of original in the Society of Antiquaries, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catholic Church --  Italy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:152018:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 1 -->
+            <p>¶ The diſcripcion  /  and fou<g ref="char:cmbAbbrStroke">̄</g>dacion of the ho<g ref="char:EOLhyphen"/>ly apoſtolyke Hoſpitall  /  and Confraternite of the holy Gooſt in Rome  /  and by whome it was fyrſte founde and edified.</p>
+            <p>
+               <figure>
+                  <figDesc>depiction of the Holy Ghost, in the form of a dove, descending on Mary, mother of Jesus, and twelve disciples</figDesc>
+               </figure>
+            </p>
+            <pb facs="tcp:152018:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 2 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="history">
+            <pb facs="tcp:152018:3" rendition="simple:additions"/>
+            <!-- PDF PAGE 3 -->
+            <p>¶ For y<hi rend="sup">e</hi> inſtruccion of all ſuche as deſire to know howe the Apoſtolyke hoſpitall &amp; confraternite of the holy gooſt in Rome was firſte founde / and by whome it was eſta<g ref="char:EOLhyphen"/>bliſſhed and / in what place it is edifyed: in this litell trea<g ref="char:EOLhyphen"/>tyſe here folowynge it ſhalbe declared.</p>
+            <p>¶ Fyrſte ye ſhall vnderſtande / that this ſayd hoſpital is edified nere vnto y<hi rend="sup">e</hi> water of Tymber a this ſyde the brid <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ynt Ange within a large boow ſhote of ſaynt Pe<g ref="char:EOLunhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>urche and palayes of our holy father y<hi rend="sup">e</hi> pope / and next vnto brydge (that nowe is fallen in decaye &amp; ruyne) the whiche is called the brydge of Nero. And more ouer within the ſayde Hoſpitall is a fountayne / whiche yet at this tyme is called the fountayne of Nero. And where as nowe is the vynyarde of the ſayde Hoſpitall / ſome tyme there ſtode the palayes of Nero. And alſo where as now ſtandeth the churche of the ſayd hoſpitall (as we fynd by writynge) the ſayde Nero cauſed a howſe to be buylded / whiche was called Taberna meritoria: that is to ſay the houſe of pyte / the whiche houſe the ſayd Nero let buylde to the ſimylytude of another called Taberna meritoria: where as nowe is edified the churche of our Lady / ouer water of Tymber / in the whiche place at the houre that our ſauiour Ieſu was borne ſprange a fountayne of oyle the whiche ranne into Tymber in the ſyght of all people. And in to this forſayd howſe were reſceyued all auncient gentylmen &amp; men of warre / that had trauayled in batayle aboute the publike welthe / whiche in theyr age were falle<g ref="char:cmbAbbrStroke">̄</g> in pouerte / and were nat able to ſocoure them ſelfe: than in the ſayd houſe they were honeſtly nouriſſhed.</p>
+            <p>¶ And ſith y<hi rend="sup">e</hi> tyme our feyth catholyke hath ben eſtabliſ<g ref="char:EOLhyphen"/>ſhed and augmented / in the ſayd place hath ben edified a ryghte fayre churche in the worſhyppe of god / and of the virgyn Marye / the whiche was called Sancta Maria
+<pb facs="tcp:152018:3"/>
+               <!-- PDF PAGE 3 -->¶ Alſo in the ſayd hoſpitall to reſceyue the ſeke people be ordeyned. iii. C. beddes / where ſometyme ye ſhall ſe. iii. or iiii. C. ſeke folke and moo.</p>
+            <p>¶ Alſo the children that be gyuen to the ſayd hoſpitall to gouerne: for as many as they haue (both in the ſayd Ho<g ref="char:EOLhyphen"/>ſpitall &amp; i the cou<g ref="char:cmbAbbrStroke">̄</g>tre / y<hi rend="sup">e</hi> whiche be put to nouriſſhe at a pla<g ref="char:EOLhyphen"/>ce acuſtomed for them / tyll they be. v. or. vi yere of age) for eche of thoſe childre<g ref="char:cmbAbbrStroke">̄</g> they pay a ducate a moneth / &amp; ſomty<g ref="char:EOLhyphen"/>me they haue a M. &amp; ſomtyme mo: the whiche they kep<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp; nouriſſhe tyll they be able to lerne ſome ſcie<g ref="char:cmbAbbrStroke">̄</g>ce: &amp; ſome of y<hi rend="sup">e</hi> men children be religious men / &amp; ſome craftꝭ men &amp; ſome be <expan>
+                  <am>
+                     <g ref="char:abser"/>
+                  </am>
+                  <ex>ser</ex>
+               </expan>uauntis in the ſayd place. And likewyſe they kepe the mayden children tyll they be ſpouſable / &amp; than they mary them honorably at the diſpence of the ſayd hoſpitall.</p>
+            <p>¶ Alſo in the ſayd hoſpitall be preſtes &amp; religious men / y<hi rend="sup">e</hi> ſerue god both day &amp; nyght. And there be alſo. iii. C. lrvi. hoſpitals belongynge to the ſayd hoſpitall / the whiche be in diuers cou<g ref="char:cmbAbbrStroke">̄</g>tres: &amp; in them alſo y<hi rend="sup">e</hi> ſaid warkꝭ of mercy be acompliſſhed. And in the forſayd hoſpitall dayly is a dole of brede &amp; mete to pore people from mornynge to noone.</p>
+            <p>¶ Alſo in the ſayd hoſpitall be many ſeruauntꝭ / that take wages: and alſo they fynde many ſouldiours / that gard &amp; defe<g ref="char:cmbAbbrStroke">̄</g>de certayne caſtels: as the caſtell of ſaynte Seuere Tryꝑgule / &amp; other beynge on the ꝑtes of the myſcreantꝭ. wherfore Pope Innocent the .viii. Alexander the .vi. Piꝰ the .iii. Iuly the .ii. and alſo our holy father pope Leo that nowe is / ſeynge y<hi rend="sup">e</hi> great coſt &amp; charge of the ſayd hoſpital y<hi rend="sup">e</hi> whiche they be nat able to ſuſteyne without the charite &amp; almes of criſte<g ref="char:cmbAbbrStroke">̄</g> peple: wherfore our ſaid holy father hath co<g ref="char:cmbAbbrStroke">̄</g>firmed &amp; extended the confraternite / &amp; all the indulgen<g ref="char:EOLunhyphen"/>ces of the ſayd hoſpitall / wyllynge that it ſhulde be publiſ<g ref="char:EOLhyphen"/>ſhed / &amp; conduted in all places within criſtendome: as it ap pereth in the bulles &amp; vulgaries of the ſayd holy fathers.</p>
+            <pb facs="tcp:152018:4"/>
+            <!-- PDF PAGE 4 -->
+            <p>¶ Alſo the ſayd indulgence &amp; co<g ref="char:cmbAbbrStroke">̄</g>fraternite were neuer de<g ref="char:EOLunhyphen"/>nulled / reuoked / nor violate: but alway augmented. Alſo the warkes of miſericorde of the ſayd hoſpitall dayely be augmented by the helpe of good criſten people / and prin<g ref="char:EOLhyphen"/>cipally within this Royalme by the ſacred maieſte of the mooſte myghty kynge of Englande / the mooſt reuerent father my lorde Cardinall and legate / my lorde the Ar<g ref="char:EOLhyphen"/>chibyſſhop of Caunturbury Prymate of England / and of all other prelates.</p>
+            <p>¶ Alſo the ſayd holy matter is conduted by the verray re<g ref="char:EOLunhyphen"/>ligiouſe ꝑſones of the ſayd hoſpitall and ordre of the holy gooſt: amonge whom is a ſpeciall Comyſſarie / whyche maye make and ordeyne perpetually the ſayd confrater<g ref="char:EOLhyphen"/>nyte and indulge<g ref="char:cmbAbbrStroke">̄</g>ce in all churches / where he and his ſub<g ref="char:EOLhyphen"/>ſtitutes ſhall erecte the forſayd pardone.</p>
+            <p>¶ Wherfore than ſo great and digne pardone / gyuen for ſo holy a cauſe ought uat to be refuſed: but with great de<g ref="char:EOLhyphen"/>uocion ſhulde be deſired both for them that be alyue / and for them that be deed.</p>
+            <p>¶ And fynally / though no pardon were graunted to the ſayd hoſpitayll / yet for the honoure of god / and to fulfyll the markes at myſericorde / that euery criſten man &amp; wo<g ref="char:EOLhyphen"/>man ought to put to theyr helpynge handes to the ſuſten facion of y<hi rend="sup">e</hi> pore people and other warkes of charite that dayly he done in the ſayd hoſpitall / to the ende y<hi rend="sup">t</hi> for theyr good dedes (done in thys worlde) they may opteyne the ioye of paradiſe and reygne with the father and the ſone / and the holy gooſt worlde without ende. Amen.</p>
+            <p>¶ Thus end<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h the diſcripcion and foun<g ref="char:EOLunhyphen"/>dacion of the holy apoſtol<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſpitall of the holy Gooſt in R<gap reason="illegible" resp="#OXF" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ulgar<g ref="char:EOLhyphen"/>ly called Saynte Eſp<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>.</p>
+            <pb facs="tcp:152018:4"/>
+            <!-- PDF PAGE 4 -->
+         </div>
+      </body>
+   </text>
+</TEI>
